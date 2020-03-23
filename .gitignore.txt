@@ -4,5 +4,6 @@
 /bin
 .class
 .iml
-/.idea
+.idea
+/test
 
